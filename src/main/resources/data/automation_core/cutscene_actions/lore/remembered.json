@@ -1,0 +1,6 @@
+{
+  "cutscene": "automation_core:lore/08_who_i_was",
+  "commands": [
+    "tag @s add automation_core.remembered"
+  ]
+}

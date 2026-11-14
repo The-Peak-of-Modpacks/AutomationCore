@@ -1,0 +1,6 @@
+{
+  "cutscene/ethereal": { "sounds": [ { "name": "automation_core:cutscene/ethereal", "stream": true } ] },
+  "cutscene/horizon": { "sounds": [ { "name": "automation_core:cutscene/horizon", "stream": true } ] },
+  "cutscene/pyre": { "sounds": [ { "name": "automation_core:cutscene/pyre", "stream": true } ] },
+  "cutscene/threshold": { "sounds": [ { "name": "automation_core:cutscene/threshold", "stream": true } ] }
+}
